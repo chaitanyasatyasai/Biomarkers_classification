@@ -5,7 +5,7 @@ Spark Tank-2k23
 This project focuses on classifying cancer biomarkers using various machine learning algorithms, including Support Vector Machine (SVM), Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes. The goal is to accurately predict the type of biomarker based on a set of molecular properties such as molecular weight, stability, specificity, and various cancer marker levels.
 
 # Special Thanks
-A special thanks to Dr. Krishna Mohan from Srujana Cancer Hospitals, Hyderabad for his invaluable guidance and expertise in the field of cancer biomarkers, which greatly contributed to the development of this project.
+A special thanks to Dr.Vishnu Vardhan (M.D),Hyderabad for his invaluable guidance and expertise in the field of cancer biomarkers, which greatly contributed to the development of this project.
 
 
 Note: This project is still a work in progress, and more features and optimizations are planned.
@@ -13,11 +13,12 @@ Note: This project is still a work in progress, and more features and optimizati
 # Table of Contents
 Installation
 Usage
+Contribution
 Data Analysis
 Models Used
 Current Status
 Future Work
-Contribution
+
 
 # Installation
 Clone the repository:
@@ -33,6 +34,11 @@ Run the main Python script to train and test the models:
 
 python sparktank.py
 The script will load the dataset, handle missing values, and split the data into training and testing sets. It will then fit multiple models and output the accuracy of each model
+
+# Contributing:
+This project is being developed by a team of five members.
+I am the team leader, responsible for Model training, including data pre-processing,data collection and for finding conclusions.
+
 
 ### Data Analysis
 
@@ -155,9 +161,6 @@ Explore deep learning approaches to classification.
 Optimize the model training and testing process.
 Improve the handling of missing or inconsistent data.
 
-# Contributing:
-This project is being developed by a team of five members.
-I am the team leader, responsible for Model training, including data pre-processing,data collection and for finding conclusions.
 
 # References
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6436208/pdf/13048_2019_Article_503.pdf
