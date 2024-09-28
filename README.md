@@ -1,6 +1,5 @@
-# Biomarkers_classification
-Spark Tank-2k23
 # Biomarker Classification Project
+Spark Tank-2k23
 # Project Description:
 
 This project focuses on classifying cancer biomarkers using various machine learning algorithms, including Support Vector Machine (SVM), Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Logistic Regression, and Naive Bayes. The goal is to accurately predict the type of biomarker based on a set of molecular properties such as molecular weight, stability, specificity, and various cancer marker levels.
@@ -132,10 +131,15 @@ Further analysis, such as clustering or classification, might be useful in ident
 The following machine learning models have been implemented in this project:
 
 Support Vector Machine (SVM)
+
 Decision Tree
+
 Random Forest
+
 K-Nearest Neighbors (KNN)
+
 Logistic Regression
+
 Naive Bayes
 
 # Current Status
