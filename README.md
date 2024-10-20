@@ -22,7 +22,7 @@ Future Work
 
 # Installation
 Clone the repository:
-git clone https://github.com/yourusername/biomarker-classification.git
+git clone https://github.com/chaitanyasatyasai/biomarker-classification.git
 cd biomarker-classification
 Install the required dependencies:
 
